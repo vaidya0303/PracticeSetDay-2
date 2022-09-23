@@ -12,4 +12,4 @@ public class SumNaturalNumFor {
 
         System.out.println("Sum of natural number by for loop is = " + sum);
     }
-}
+ }

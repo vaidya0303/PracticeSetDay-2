@@ -9,7 +9,7 @@
 			int num = sc.nextInt();
 			
 			
-			if (num==0) {
+			if (num==0)  {
 				
 				System.out.println("Num is = Zero");
 			}

@@ -7,7 +7,7 @@ import java.util.*;
 class SumOfNaturalNum {
 
 	public static void main(String[] args)
-	{
+	 {
 		int n = 5, sum = 0, i = 1;
 
 		/* While loop*/
